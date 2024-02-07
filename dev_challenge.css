@@ -1,0 +1,33 @@
+*{color:#18001F;}
+img{height:150px;width:400px;}
+
+p{margin-left:10px}
+#preptime{float:center;background-color:#FCCFF5;
+margin-top:10px;border-radius:3px;
+margin-bottom:10px;padding:10px;margin-right:40px;
+    margin-left:10px;
+}
+
+#preptime ul li{margin-bottom:10px;margin-top:0px;
+    margin-left: auto;margin-right:auto;
+}
+#ingredients{color:#E28700;
+    font-family: Times New Roman;margin-left: 5px;
+}
+
+ li{margin-bottom: 10px;list-style:;
+ }
+
+ol{list-style-type:decimal;}
+span{font-weight: bold;}
+#instructions{color:#E28700;font-family:Times New Roman;}
+hr{margin:0px 10px 0px 10px;color:#545262;
+margin-bottom:40px;margin-top:30px;}
+h2{color:#E28700;font-family: Times New Roman;}
+table{width:400px;}
+th{border-bottom:1px solid black;}
+h1{font-family:Times New Roman;}
+td.one{color:E28700;}
+.zero{margin-left:100px;}
+table{border-collapse: collapse;}
+ td{border-bottom:1px solid black;}
