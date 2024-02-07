@@ -29,5 +29,5 @@ th{border-bottom:1px solid black;}
 h1{font-family:Times New Roman;}
 td.one{color:#E28700;}
 .zero{margin-left:100px;}
-table{border-collapse: collapse;}
+table{border-collapse: collapse; padding:20px;}
  td{border-bottom:1px solid black;}
