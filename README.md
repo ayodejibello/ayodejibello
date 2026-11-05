@@ -1,49 +1,45 @@
 # Hi, I'm Abdullah 👋
 
-I'm a **Junior Frontend Developer** and final-year **Computer Science student** with hands-on experience building responsive and user-focused web applications using **React, Tailwind CSS, and JavaScript**.
+**Frontend developer** building responsive, user-focused web apps with React, TypeScript, and Tailwind CSS.
+B.Sc. Computer Science (UDUS, 2026) · Nigeria · **Open to frontend roles**: remote or on-site, full-time or part-time, and willing to relocate.
 
-I’ve worked on real-world projects, including contributing to a **SaaS medical platform** that connects patients, doctors, hospitals, and laboratories in one digital system.
-
----
+I've shipped frontends for healthcare, restaurant operations, and consumer products, and I build my own full-stack projects with Supabase and PostgreSQL. I care about clean component structure, readable code, and interfaces that stay simple as products grow.
 
 ## Tech Stack
-- HTML5, CSS3, JavaScript (ES6+)
-- React
-- Tailwind CSS
-- React Router
-- REST APIs (Fetch)
-- Git & GitHub
 
----
+| Area | Tools |
+|---|---|
+| Languages | TypeScript, JavaScript (ES6+), HTML5, CSS3 |
+| Frontend | React, React Router, Tailwind CSS, Vite |
+| Backend & Data | Supabase (Auth, PostgreSQL), REST APIs |
+| Tooling | Git, GitHub, Vercel |
 
-## Projects
+## Featured Projects
 
-- **Blue Weather** – Modern weather application with real-time data, search history, and responsive UI  
-  Live: https://blue-weather-app.vercel.app
+**[PSFMS: Project Supervision & Feedback Management System](https://fyp-manager-alpha.vercel.app/)**
+Full-stack platform for managing student project supervision. Supports four roles (admin, supervisor, coordinator, student) with topic approvals, milestone submissions, supervisor feedback, and random allocation of [students to supervisors]. Built with React, Supabase, and Tailwind CSS.
 
-- **Course Tracker Dashboard** – Dashboard for tracking courses and progress with a mobile-first responsive layout  
-  Live: https://course-tracker-board.vercel.app
+**[Clodocs](https://clodocs.com)**
+Medical SaaS platform connecting patients, doctors, hospitals, and laboratories. Built the frontend as part of a team.
 
-- **Clodocs** – Medical SaaS platform connecting patients, doctors, hospitals, and labs  
+**[Lost & Found](https://lost-and-found-web-rust.vercel.app/)**
+Web app for reporting and browsing lost items. [One line on what you built, e.g. search or image upload.]
 
-- **Lost & Found Web App** – Platform for announcing and viewing lost items  
+## Professional Work
 
-- **Bluetopia** – Browser-based music player  
+- **[TOST](https://tostapp.com/)**: Founding team member. Built the landing page for a location-based dating app.
+- **[Upside](https://myupside.org/)**: Web developer on a startup product team. [One thing you built.]
+- **DoorGrab**: Frontend contributor on a restaurant management platform (private repo): authentication, dashboard, menu management, orders, analytics, and settings.
 
-- **Sufcart Landing Page** – Responsive business landing page  
+## More Projects
 
-👉 Check my pinned repositories below.
+[Blue Weather](https://blue-weather-app.vercel.app/) · [Course Tracker Dashboard](https://course-tracker-board.vercel.app/) · [Bluetopia](https://bluetopia.vercel.app/)
 
----
+## Currently Focused On
 
-## Currently Learning
-- TypeScript
-- Advanced React patterns
-
----
+- Deepening TypeScript and Next.js
+- Writing cleaner, more maintainable React code
 
 ## Let's Connect
-- Portfolio: https://portfolio-blue-swart.vercel.app  
-- GitHub: https://github.com/ayodejibello  
 
-I'm open to **Junior Frontend Developer roles (Remote or Hybrid)**.
+[Portfolio](https://portfolio-blue-swart.vercel.app) · [LinkedIn](https://linkedin.com/in/abdullah-abdulfatai) · [Email](mailto:abdullahayodeji005@gmail.com)
